@@ -1,1 +1,1 @@
-angular.module('AngularArtApp', []);
+var app = angular.module('quizApp', []);
